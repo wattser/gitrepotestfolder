@@ -1,1 +1,2 @@
 Some text is known to reside here
+fresh line for this text? or does it get pasted without so much as a space? these past two questions and this sentence are echoed into the file
